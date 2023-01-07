@@ -266,15 +266,81 @@
     left: 230px;
     margin-top: 130px;
     margin-left: 230px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 .end-disc{
     color: white;
     font-weight: 400;
     font-size: 16px;
+    width: 485px;
+    height: 78px;
+    top: 2850.96px;
+    left: 230px;
+    padding-left: 230px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-.em{
+.em1{
     color: white;
+    width: 184px;
+    height: 26px;
+     left: 230px;
+     top: 2952.96px;
+     padding-left: 230px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+.em2{
+    color: white;
+    width: 184px;
+    height: 26px;
+     left: 230px;
+     top: 2994.96px;
+     padding-left: 230px;
+     padding-top: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.end-img1{
+    width: 47px;
+   height: 46px;
+   left: 230px;
+   top: 3052.96px;
+   padding-left: 230px;
+   padding-top: 20px;
+   gap: 20px;
+}
+.end-title2{
+    font-weight: 600;
+    color: white;
+    font-size: 25px;
+    width: 123px;
+    height: 29px;
+    left: 1046px;
+    top: 2781.96px;
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.in-mail{
+    position: absolute;
+    width: 325px;
+    height: 64px;
+    left: 1046px;
+    top: 2841.96px;
+    border-radius: 8px;
+    background-color:white;
+}
+.btn-third{
+    width: 170.11px;
+    position: absolute;
+    height: 64px;
+    left: 1046px;
+    top: 2921.96px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    background-color: #005FAC;
+    border: none;
 }
