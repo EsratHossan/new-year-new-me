@@ -18,7 +18,7 @@
 }
 /* Banner section */
 .banner{
-    background-image: url("../images/banner/banner3.png");
+    background-image: url("./images/banner/banner3.png");
     width: 1600px;
     height: 808px;
 }
@@ -217,7 +217,7 @@
 }
 /* Extra background */
 .extra-back{
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('../images/watch.png');
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('./images/watch.png');
     position: absolute;
     border-radius: 8px;
     width: 1140px;
