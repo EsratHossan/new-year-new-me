@@ -1,0 +1,280 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    
+}
+.nav{
+    background-color: black;
+    width: 1600px;
+}
+ .links{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    padding: 10px;
+    gap: 10px;
+    color: white;
+}
+/* Banner section */
+.banner{
+    background-image: url("/images/banner/banner3.png");
+    width: 1600px;
+    height: 808px;
+}
+.banner-title{
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: white;
+    width: 525px;
+    height: 228px;
+    top: 200px;
+    left: 817px;
+    position: absolute;
+
+}
+.banner-description{
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    top: 468px;
+    left: 876px;
+}
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    border: none;
+}
+/* Section style */
+.img{
+    position: absolute;
+    width: 569px;
+    height: 724px;
+    top: 940px;
+    left: 206px;
+}
+.sec-title{
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+    top: 1178px;
+    left: 862px;
+    position: absolute;
+}
+.sec-disc{
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+    top: 1296px;
+    left: 862px;
+    line-height: 26px;
+    position: absolute;
+    color: #444343;
+}
+.list{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    top: 1416px;
+    left: 862px;
+    color: #444343;
+}
+/* Plan section */
+.plan-title{
+    font-size: 700;
+    font-size: 40;
+    text-align: center;
+    width: 179px;
+    height: 47px;
+    top: 1792px;
+    left: 765px;
+    position: absolute;
+}
+.plan-img1{
+    position: absolute;
+    width: 92.96px;
+    height: 86.11px;
+    top: 1894.56px;
+    left: 294px;
+}
+.plan-img2{
+    position: absolute;
+    width: 92.96px;
+    height: 86.11px;
+    top: 1891.78px;
+    left: 631px;
+}
+.plan-img3{
+    position: absolute;
+    width: 93px;
+    height: 86.15px;
+    top: 1889px;
+    left: 916px;
+}
+.plan-img4{
+    position: absolute;
+    width: 92.96px;
+    height: 86.11px;
+    top: 1889px;
+    left: 1218px;
+}
+.plan-sub-title1{
+    position: absolute;
+    font-weight: 700;
+    font-size: 30px;
+    width: 270px;
+    height: 32.42px;
+    top: 2002.9px;
+    left: 230px;
+    color: #151414;
+}
+.plan-sub-title2{
+    position: absolute;
+    font-weight: 700;
+    font-size: 30px;
+    width: 156px;
+    height: 32.42px;
+    top: 1997.38px;
+    left: 599px;
+    color: #151414;
+}
+.plan-sub-title3{
+    position: absolute;
+    font-weight: 700;
+    font-size: 30px;
+    width: 218px;
+    height: 32.42px;
+    top: 1997.38px;
+    left: 853px;
+    color: #151414;
+}
+.plan-sub-title4{
+    position: absolute;
+    font-weight: 700;
+    font-size: 30px;
+    width: 174px;
+    height: 32.42px;
+    top: 1997.38px;
+    left: 1177px;
+    color: #151414;
+
+}
+.plan-disc1{
+    position: absolute;
+    font-weight: 500;
+    font-size: 25px;
+    width: 177px;
+    height: 26.86px;
+    top: 2050.14px;
+    left: 277px;
+    color: #737272;
+}
+.plan-disc2{
+    position: absolute;
+    font-weight: 500;
+    font-size: 25px;
+    width: 181px;
+    height: 26.86px;
+    top: 2044.62px;
+    left: 586px;
+    color: #737272;
+}
+.plan-disc3{
+    position: absolute;
+    font-weight: 500;
+    font-size: 25px;
+    width: 164px;
+    height: 26.86px;
+    top: 2044.62px;
+    left: 880px;
+    color: #737272;
+}
+.plan-disc4{
+    position: absolute;
+    font-weight: 500;
+    font-size: 25px;
+    width: 214px;
+    height: 26.86px;
+    top: 2050.14px;
+    left: 1152px;
+    color: #737272;
+}
+/* Extra background */
+.extra-back{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%), url('/images/watch.png');
+    position: absolute;
+    border-radius: 8px;
+    width: 1140px;
+    height: 300px;
+    top: 2221.96px;
+    left: 230px;
+}
+.back-title{
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+    height: 94px;
+    line-height: 46.92px;
+    padding: 40px;
+    top: 2280.96px;
+    left: 294px;
+    color: white;
+}
+.btn-secondary{
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    border: none;
+    margin-left: 40px;
+}
+/* Footer */
+.end-content{
+    background-color: #151414;
+    position: absolute;
+    width: 1600px;
+    height: 500px;
+    top: 2651.96px;
+}
+.end-title{
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+    width: 148px;
+    height: 53px;
+    top: 2781.96px;
+    left: 230px;
+    margin-top: 130px;
+    margin-left: 230px;
+
+}
+.end-disc{
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.em{
+    color: white;
+
+}
